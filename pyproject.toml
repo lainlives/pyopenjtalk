@@ -37,7 +37,7 @@ classifiers = [
 ]
 urls.Homepage = "https://github.com/r9y9/pyopenjtalk"
 dependencies = [
-    "importlib_resources;",
+    "importlib_resources",
     "numpy",
     "tqdm",
 ]
